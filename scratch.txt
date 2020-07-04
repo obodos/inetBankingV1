@@ -1,0 +1,19 @@
+ @BeforeClass
+    public void setUp(String browser){
+        logger = Logger.getLogger("ebanking");
+        PropertyConfigurator.configure("Log4j.properties");
+        String propertyPath = System.getProperty("user.dir");
+        System.out.println(propertyPath);
+        if(browser.equals("chrome")) {
+            //String absolutePath = propertyPath+"/src/test/resources/driver/chromedriver.exe";
+//        System.setProperty("webdriver.chrome.driver",absolutePath);
+//        System.out.println(absolutePath);
+//        driver = new ChromeDriver();
+        }else  if(browser.equals("firefox")) {
+            String pathOfFirefoxDriver = propertyPath + "/src/test/resources/driver/geckodriver.exe";
+            System.setProperty("webdriver.gecko.driver", pathOfFirefoxDriver);
+            driver = new FirefoxDriver(); //Creating an object of FirefoxDriver
+
+        }
+
+    }

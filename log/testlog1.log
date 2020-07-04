@@ -1,0 +1,154 @@
+2020-06-23 10:32:27,423 [main] INFO ebanking - Opening URL ...
+2020-06-23 10:32:31,877 [main] INFO ebanking - Login Test Passed
+2020-06-24 21:57:31,527 [main] INFO ebanking - Opening URL ...
+2020-06-24 22:01:51,902 [main] INFO ebanking - Opening URL ...
+2020-06-24 22:01:56,097 [main] INFO ebanking - Login Test Passed
+2020-06-24 22:07:35,472 [main] INFO ebanking - Opening URL ...
+2020-06-24 22:10:23,359 [main] INFO ebanking - Opening URL ...
+2020-06-24 22:11:59,813 [main] INFO ebanking - Opening URL ...
+2020-06-24 22:12:03,815 [main] INFO ebanking - Login Test Passed
+2020-06-25 13:57:30,613 [main] INFO ebanking - Opening URL ...
+2020-06-25 13:57:35,230 [main] INFO ebanking - Login Test Passed
+2020-06-25 16:15:33,258 [main] INFO ebanking - Opening URL ...
+2020-06-25 16:15:36,652 [main] INFO ebanking - Login Test Failed
+2020-06-25 16:25:20,418 [main] INFO ebanking - Opening URL ...
+2020-06-25 16:25:26,079 [main] INFO ebanking - Login Test Failed
+2020-06-25 16:25:26,611 [main] INFO ebanking - Screenshot taken
+2020-06-25 16:35:44,271 [main] INFO ebanking - Opening URL ...
+2020-06-25 16:35:48,124 [main] INFO ebanking - Login Test Failed
+2020-06-25 16:35:48,720 [main] INFO ebanking - Screenshot taken
+2020-06-26 16:15:09,082 [main] INFO ebanking - Opening URL ...
+2020-06-26 16:15:11,961 [main] INFO ebanking - Login Test Failed
+2020-06-26 16:15:12,450 [main] INFO ebanking - Screenshot taken
+2020-06-26 16:15:27,689 [main] INFO ebanking - user name provided
+2020-06-26 16:15:27,739 [main] INFO ebanking - password provided
+2020-06-26 16:15:34,177 [main] INFO ebanking - Login passed
+2020-06-26 16:15:41,360 [main] INFO ebanking - user name provided
+2020-06-26 16:15:41,404 [main] INFO ebanking - password provided
+2020-06-26 16:15:51,609 [main] INFO ebanking - user name provided
+2020-06-26 16:15:51,696 [main] INFO ebanking - password provided
+2020-06-26 16:16:00,733 [main] INFO ebanking - user name provided
+2020-06-26 16:16:00,840 [main] INFO ebanking - password provided
+2020-06-26 16:16:07,168 [main] INFO ebanking - Login passed
+2020-06-26 16:16:14,271 [main] INFO ebanking - user name provided
+2020-06-26 16:16:14,318 [main] INFO ebanking - password provided
+2020-06-26 17:58:48,834 [main] INFO ebanking - User name is provided
+2020-06-26 17:58:48,901 [main] INFO ebanking - Passsword is provided
+2020-06-26 17:58:54,917 [main] INFO ebanking - providing customer details....
+2020-06-26 17:59:03,982 [main] INFO ebanking - validation started....
+2020-06-26 18:13:28,727 [main] INFO ebanking - User name is provided
+2020-06-26 18:13:28,791 [main] INFO ebanking - Passsword is provided
+2020-06-26 18:13:34,661 [main] INFO ebanking - providing customer details....
+2020-06-26 18:13:40,649 [main] INFO ebanking - Random Email : OtAbnatQ@gmail.com
+2020-06-26 18:13:43,848 [main] INFO ebanking - validation started....
+2020-06-26 18:13:43,875 [main] INFO ebanking - test case failed....
+2020-06-26 18:13:44,325 [main] INFO ebanking - Screenshot taken
+2020-06-26 18:17:41,938 [main] INFO ebanking - User name is provided
+2020-06-26 18:17:41,981 [main] INFO ebanking - Passsword is provided
+2020-06-26 18:17:47,822 [main] INFO ebanking - providing customer details....
+2020-06-26 18:17:53,530 [main] INFO ebanking - Random Email : yVxvRjnU@gmail.com
+2020-06-26 18:17:56,691 [main] INFO ebanking - validation started....
+2020-06-26 18:34:18,805 [main] INFO ebanking - User name is provided
+2020-06-26 18:34:18,867 [main] INFO ebanking - Passsword is provided
+2020-06-26 18:34:24,637 [main] INFO ebanking - providing customer details....
+2020-06-26 18:34:30,487 [main] INFO ebanking - Random Email : MVTokhdw@gmail.com
+2020-06-26 18:34:33,784 [main] INFO ebanking - validation started....
+2020-06-26 18:35:31,132 [main] INFO ebanking - User name is provided
+2020-06-26 18:35:31,180 [main] INFO ebanking - Passsword is provided
+2020-06-26 18:35:37,347 [main] INFO ebanking - providing customer details....
+2020-06-26 18:35:43,126 [main] INFO ebanking - Random Email : BGswgKgf@gmail.com
+2020-06-26 18:35:46,330 [main] INFO ebanking - validation started....
+2020-06-26 18:44:41,257 [main] INFO ebanking - User name is provided
+2020-06-26 18:44:41,370 [main] INFO ebanking - Passsword is provided
+2020-06-26 18:44:45,464 [main] INFO ebanking - providing customer details....
+2020-06-26 18:44:51,613 [main] INFO ebanking - Random Email : MZJMzbDS@gmail.com
+2020-06-26 18:44:58,380 [main] INFO ebanking - validation started....
+2020-06-26 18:44:58,477 [main] INFO ebanking - test case passed....
+2020-06-26 18:52:37,560 [main] INFO ebanking - Opening URL ...
+2020-06-26 18:52:42,834 [main] INFO ebanking - Login Test Failed
+2020-06-26 18:52:44,445 [main] INFO ebanking - Screenshot taken
+2020-06-26 18:52:58,574 [main] INFO ebanking - user name provided
+2020-06-26 18:52:59,111 [main] INFO ebanking - password provided
+2020-06-26 18:53:05,210 [main] INFO ebanking - Login passed
+2020-06-26 18:53:12,526 [main] INFO ebanking - user name provided
+2020-06-26 18:53:12,662 [main] INFO ebanking - password provided
+2020-06-26 18:53:24,428 [main] INFO ebanking - user name provided
+2020-06-26 18:53:24,609 [main] INFO ebanking - password provided
+2020-06-26 18:53:35,722 [main] INFO ebanking - user name provided
+2020-06-26 18:53:35,878 [main] INFO ebanking - password provided
+2020-06-26 18:53:41,660 [main] INFO ebanking - Login passed
+2020-06-26 18:53:48,932 [main] INFO ebanking - user name provided
+2020-06-26 18:53:49,068 [main] INFO ebanking - password provided
+2020-06-26 18:54:12,674 [main] INFO ebanking - User name is provided
+2020-06-26 18:54:12,807 [main] INFO ebanking - Passsword is provided
+2020-06-26 18:54:18,652 [main] INFO ebanking - providing customer details....
+2020-06-26 18:54:24,850 [main] INFO ebanking - Random Email : QvreKsgt@gmail.com
+2020-06-26 18:54:29,754 [main] INFO ebanking - validation started....
+2020-06-26 18:54:29,814 [main] INFO ebanking - test case passed....
+2020-06-26 22:31:49,881 [main] INFO ebanking - Opening URL ...
+2020-06-26 22:31:54,885 [main] INFO ebanking - Login Test Failed
+2020-06-26 22:31:56,331 [main] INFO ebanking - Screenshot taken
+2020-06-26 22:32:09,723 [main] INFO ebanking - user name provided
+2020-06-26 22:32:10,118 [main] INFO ebanking - password provided
+2020-06-26 22:32:15,888 [main] INFO ebanking - Login passed
+2020-06-26 22:32:24,433 [main] INFO ebanking - user name provided
+2020-06-26 22:32:24,814 [main] INFO ebanking - password provided
+2020-06-26 22:32:35,334 [main] INFO ebanking - user name provided
+2020-06-26 22:32:35,985 [main] INFO ebanking - password provided
+2020-06-26 22:32:45,944 [main] INFO ebanking - user name provided
+2020-06-26 22:32:46,495 [main] INFO ebanking - password provided
+2020-06-26 22:32:52,549 [main] INFO ebanking - Login passed
+2020-06-26 22:33:00,257 [main] INFO ebanking - user name provided
+2020-06-26 22:33:00,347 [main] INFO ebanking - password provided
+2020-06-26 22:33:22,658 [main] INFO ebanking - User name is provided
+2020-06-26 22:33:23,133 [main] INFO ebanking - Passsword is provided
+2020-06-26 22:33:28,293 [main] INFO ebanking - providing customer details....
+2020-06-26 22:33:34,721 [main] INFO ebanking - Random Email : NNzJflYt@gmail.com
+2020-06-26 22:33:39,564 [main] INFO ebanking - validation started....
+2020-06-26 22:33:39,642 [main] INFO ebanking - test case passed....
+2020-06-27 07:24:53,830 [main] INFO ebanking - Opening URL ...
+2020-06-27 07:25:00,151 [main] INFO ebanking - Login Test Failed
+2020-06-27 07:25:01,267 [main] INFO ebanking - Screenshot taken
+2020-06-27 07:25:15,635 [main] INFO ebanking - user name provided
+2020-06-27 07:25:15,775 [main] INFO ebanking - password provided
+2020-06-27 07:25:21,560 [main] INFO ebanking - Login passed
+2020-06-27 07:25:29,269 [main] INFO ebanking - user name provided
+2020-06-27 07:25:29,389 [main] INFO ebanking - password provided
+2020-06-27 07:25:40,089 [main] INFO ebanking - user name provided
+2020-06-27 07:25:40,231 [main] INFO ebanking - password provided
+2020-06-27 07:25:50,849 [main] INFO ebanking - user name provided
+2020-06-27 07:25:51,069 [main] INFO ebanking - password provided
+2020-06-27 07:25:57,442 [main] INFO ebanking - Login passed
+2020-06-27 07:26:05,697 [main] INFO ebanking - user name provided
+2020-06-27 07:26:05,824 [main] INFO ebanking - password provided
+2020-06-27 07:26:31,446 [main] INFO ebanking - User name is provided
+2020-06-27 07:26:31,641 [main] INFO ebanking - Passsword is provided
+2020-06-27 07:26:35,471 [main] INFO ebanking - providing customer details....
+2020-06-27 07:26:41,948 [main] INFO ebanking - Random Email : tOvvbaNI@gmail.com
+2020-06-27 07:26:46,678 [main] INFO ebanking - validation started....
+2020-06-27 07:26:46,780 [main] INFO ebanking - test case passed....
+2020-06-27 21:11:24,530 [main] INFO ebanking - Opening URL ...
+2020-06-27 21:21:53,405 [main] INFO ebanking - Opening URL ...
+2020-06-27 21:21:56,333 [main] INFO ebanking - Login Test Failed
+2020-06-27 21:21:56,870 [main] INFO ebanking - Screenshot taken
+2020-06-27 21:22:11,813 [main] INFO ebanking - user name provided
+2020-06-27 21:22:11,851 [main] INFO ebanking - password provided
+2020-06-27 21:22:18,687 [main] INFO ebanking - Login passed
+2020-06-27 21:22:25,846 [main] INFO ebanking - user name provided
+2020-06-27 21:22:25,897 [main] INFO ebanking - password provided
+2020-06-27 21:22:35,319 [main] INFO ebanking - user name provided
+2020-06-27 21:22:35,400 [main] INFO ebanking - password provided
+2020-06-27 21:22:44,716 [main] INFO ebanking - user name provided
+2020-06-27 21:22:44,766 [main] INFO ebanking - password provided
+2020-06-27 21:22:51,414 [main] INFO ebanking - Login passed
+2020-06-27 21:22:58,443 [main] INFO ebanking - user name provided
+2020-06-27 21:22:58,496 [main] INFO ebanking - password provided
+2020-06-27 21:24:22,922 [main] INFO ebanking - Opening URL ...
+2020-06-27 21:24:26,586 [main] INFO ebanking - Login Test Failed
+2020-06-27 21:24:27,066 [main] INFO ebanking - Screenshot taken
+2020-06-27 21:25:33,471 [main] INFO ebanking - Opening URL ...
+2020-06-27 21:25:37,338 [main] INFO ebanking - Login Test Passed
+2020-06-27 21:26:44,763 [main] INFO ebanking - Opening URL ...
+2020-06-27 21:26:48,173 [main] INFO ebanking - Login Test Passed
+2020-06-27 23:46:58,102 [main] INFO ebanking - Opening URL ...
+2020-06-27 23:47:01,183 [main] INFO ebanking - Login Test Passed
